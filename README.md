@@ -3,10 +3,8 @@
     OR 
 - Follow step by step guide:
     - Install Java Development Kit (JDK) : 
-        - Download JDK 8 from here 
-        ``` 
+        - Download JDK 8 from here  
             https://www.oracle.com/in/java/technologies/downloads/#java11-windows
-        ```
         
     -  Set the Path for the Environmental Variable for JDK :
         - Go to System Properties. Under the "Advanced system setting" tab, select Environment Variables.
